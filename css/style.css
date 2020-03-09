@@ -68,6 +68,13 @@ hr{
   float: right;
   margin-left: 30px;
 }
+.boss5{
+  border-radius: 50%;
+  height: 50%;
+  width:25%;
+  float: left;
+  margin-right: 50px
+}
 .skills-row{
   margin: 100px auto 100px auto;
   width: 50%;
