@@ -1,0 +1,37 @@
+body{
+  background-color: #fcf8f3;
+}
+h2{
+  font-size: 6rem;
+  text-align: center;
+  margin-bottom: 0px;
+  color: #f3c623;
+  font-family: 'Pacifico', cursive;
+}
+img{
+  display: block;
+  /*padding-left:49%;*/
+}
+#p1{
+  margin-left: 23%;
+}
+.titleholder{
+  width: 70%;
+  padding-left: 17%;
+}
+.para{
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 0px;
+  color: #f3c623;
+  font-family: 'Dancing Script', cursive;
+}
+.dice{
+  font-size: 2rem;
+  color: #f3c623;
+  font-family: 'Dancing Script',cursive;
+  text-align: center;
+  display: inline-block;
+
+
+}
